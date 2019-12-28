@@ -1,0 +1,19 @@
+footer {
+    background-color: $footer-bg;
+    border-top: 3px solid $primary;
+    padding: 2.5rem 0;
+
+    .footer {
+        &-header {
+            color: $primary;
+        }
+
+        &-text {
+            color: $footer-color;
+
+            span {
+                color: $primary;
+            }
+        }
+    }
+}

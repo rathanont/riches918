@@ -1,0 +1,11 @@
+{
+  "name": "riches918",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rathanont/riches918.git",
+  "author": "rathanont <rathanont.s@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}

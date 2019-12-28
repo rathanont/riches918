@@ -1,0 +1,29 @@
+// Colors
+$primary: #E0CB73;
+$dark: #161616;
+
+// Body
+$body-bg: black;
+$body-color: white;
+
+// Typography
+$font-family-base: 'Prompt',
+sans-serif;
+
+// Header
+$header-bg: #250F42;
+$header-top-bg: #110B2B;
+$header-top-color: #595289;
+$nav-link-color:white;
+$nav-link-lg-color:#35110E;
+$nav-link-active-color:$primary;
+$nav-link-bg-active:rgba(black, .1);
+$nav-link-border-color:#3A3A3A;
+$bg-offcanvas: rgba($header-top-bg, .95);
+$jackpot-bg: #381F5E;
+
+// Footer
+$footer-bg:$dark;
+$footer-color:#595289;
+
+$enable-responsive-font-sizes:true;

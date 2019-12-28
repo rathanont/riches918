@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt:300,400,500,600,700&display=swap');
+@import './variables';
+@import './../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/rfs/scss.scss';
+@import './header';
+@import './section';
+@import './main';
+@import './footer';
+@import './buttons';
+
+html,
+body {
+    position: relative;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+main {
+    background: url('../img/bg-main.png') no-repeat center top/cover;
+}
